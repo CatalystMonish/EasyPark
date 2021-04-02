@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581188267865",
+    "project_id": "parkapp-1962a",
+    "storage_bucket": "parkapp-1962a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581188267865:android:c94fd9d82fb0226c0e6648",
+        "android_client_info": {
+          "package_name": "com.catalystmedia.parkfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581188267865-2a5d2q0duuuqjoq09fpmmql7n0h3erq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNJE24A1ukSO3_bSLbFymIUC5b6CZB0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581188267865-2a5d2q0duuuqjoq09fpmmql7n0h3erq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
