@@ -3,7 +3,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-orange.svg) ![Android Studio](https://img.shields.io/badge/IDE-AndroidStudio-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PullRequests-welcome-pink.svg)
 
-<img src="EasyPark1.jpg" width="15%"/> <img src="EasyPark2.jpg" width="20%"/> <img src="EasyPark3.jpg" width="20%"/> <img src="EasyPark4.jpg" width="20%"/>
+<img src="EasyPark1.jpg" width="15%"/> <img src="EasyPark2.jpg" width="15%"/> <img src="EasyPark3.jpg" width="15%"/> <img src="EasyPark4.jpg" width="15%"/>
 
 :loudspeaker: This app was created as an solution to a problem presented in Eureka!
 
