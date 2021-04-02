@@ -1,27 +1,28 @@
-# [BreatHarmony](https://github.com/CatalystMonish/BreatHarmony)
-## A Journey of Complete Mindfulness &middot;
+# [EasyPark](https://github.com/CatalystMonish/EasyPark)
+## Hassel-free Parking Solution &middot;
 
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-orange.svg) ![Android Studio](https://img.shields.io/badge/IDE-AndroidStudio-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PullRequests-welcome-pink.svg)
 
-<img src="IMAGE_LINK_OF_APP_SCREENSHOT" width="100%"/>
+<img src="EasyPark1.jpg" width="100%"/>
+
+:loudspeaker: This app was created as an solution to a problem presented in Eureka!
 
 **DESCRIPTION**
 
 ## About App
-*Our application  breatharmony consists of a regular meditation  routine program along with yoga which will be introduced to the user in the upcoming phases. 
-*To enhance gamification, with every growing phase a tree will be growing to indicate user's progress and if meditation is discontinued for a longer duration  then the tree  will be going back to it's initial state. Thus, the growing tree helps in user's habit building.  
-*Yoga that is introduced in the futher stages aslo has a guide with pictures for better understanding of correct yoga postures.
+*With the growing number of cars on the road, it has become time-consuming to look for a parking spot at all places. All parking lots are filled with cars and one has to take several rounds of the parking lot to find a place to park their car. 
+*To resolve this problem of the car drivers,  “EasyPark” mobile application has been developed. EasyPark is an IOT based application that helps by providing the users’ vacant spots that can be used to park their vehicles.
+*The idea behind our Android Application-“EasyPark” is to help the user analyze areas where parking is available and the number of slots free in that area.
 
-:loudspeaker: This app was created in 24 hours as part of Hackathon
 
 ## Features
 
 ```
 > Personalized experience
-> Daily Report
+> Easy-to-use GUI
 > Online Database
-> Daily Report
-> Sleep Stories
+> Live tracking of parking 
+> Fast service 
 ```
 
 ## Contributing
