@@ -25,11 +25,5 @@
 > Fast service 
 ```
 
-## Contributing
-There are many ways in which you can participate in the project, for example:
-* Submit bugs and feature requests, and help us verify as they are checked in
-* Review source code changes
-* Review the documentation and make pull requests for anything from typos to new content
-
 ### Developed and Maintained By:
 * [Alt Half Life](https://github.com/CatalystMonish)
