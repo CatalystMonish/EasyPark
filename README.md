@@ -31,4 +31,4 @@ There are many ways in which you can participate in the project, for example:
 * Review the documentation and make pull requests for anything from typos to new content
 
 ### Developed and Maintained By:
-* [Half Life](https://github.com/CatalystMonish)
+* [Alt Half Life](https://github.com/CatalystMonish)
